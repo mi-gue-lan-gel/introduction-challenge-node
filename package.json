@@ -1,0 +1,14 @@
+{
+  "name": "introduction-challenge",
+  "version": "1.0.0",
+  "description": "this is a challenge on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguelángel Sequeda Piñero",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
